@@ -1,0 +1,69 @@
+ body{
+     background-color: azure;
+ }
+    .id1{
+        
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+    }
+    .id2{
+        color: rgb(204, 80, 235);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
+    .divid{
+        bottom: 25px;
+        background-color: rgb(209, 206, 228);
+        color: rgb(218, 50, 50);
+        border-style: double;
+        border-top: darkslategray;
+        width: 300px;
+        border: 15px solid rgb(155, 46, 82);
+        padding: 50px;
+        margin: 20px;
+        
+    }
+    .smallid{
+        color: rgb(59, 108, 182);
+    }
+    #artid{
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+
+    }
+    #isid{
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+    }
+    #vid{
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+    }
+    #gid{
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+    }
+    #wid{
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(240, 62, 62);
+        border: crimson;
+        border-radius: 15%;
+        margin: 20px,10px,20px,10px;
+    }
+
+ 
